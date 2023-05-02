@@ -11,7 +11,7 @@ sudo pip install telegram-send
 3. Agrega el bot a un grupo de Telegram al que tengas acceso. Para hacer esto, abre Telegram y crea un nuevo grupo o únete a uno existente. Luego, agrega el bot al grupo.
 4. Crea un archivo de configuración para `telegram-send`. Puedes hacer esto usando el siguiente comando:
 ```bash
-telegram-send –configure
+telegram-send --configure
 ```
 (Si no funciona: 
 ```bash
